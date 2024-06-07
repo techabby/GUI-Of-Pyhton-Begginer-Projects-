@@ -8,4 +8,4 @@ Each project in this repository is carefully crafted to provide hands-on experie
 
 Ready to dive in? Clone this repository to your local machine and start exploring the projects today.
 
-We hope you enjoy your journey through these Python beginner projects with GUIs. If you have any questions, feedback, or suggestions, feel free to reach out. Happy coding!
+We hope you enjoy your journey through these Python beginner projects with GUIs. If you have any questions, feedback, or suggestions, feel free to reach out. **Happy coding!**
