@@ -2,7 +2,8 @@
 
 Welcome to the Python Beginner Projects with GUIs repository! This repository is your gateway to mastering GUI development step by step with Python. Here, you'll find a curated collection of beginner-friendly projects designed to introduce you to the world of graphical user interfaces.
 
-Why GUIs? Graphical user interfaces (GUIs) play a crucial role in modern software development, providing users with intuitive interfaces to interact with applications. Mastering GUI development is essential for building user-friendly and engaging software solutions.
+### Why GUIs?
+Graphical user interfaces (GUIs) play a crucial role in modern software development, providing users with intuitive interfaces to interact with applications. Mastering GUI development is essential for building user-friendly and engaging software solutions.
 
 Each project in this repository is carefully crafted to provide hands-on experience in GUI development using Python.Whether you're a complete beginner or have some programming experience, these projects offer a structured approach to learning GUI development. Follow along with the step-by-step instructions, explore the code, and experiment with different features to deepen your understanding.
 
