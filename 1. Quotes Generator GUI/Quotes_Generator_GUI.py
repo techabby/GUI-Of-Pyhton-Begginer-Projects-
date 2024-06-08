@@ -1,5 +1,4 @@
 from tkinter import *
-import tkinter.messagebox as tmsg
 from tkinter import font
 import random
 
