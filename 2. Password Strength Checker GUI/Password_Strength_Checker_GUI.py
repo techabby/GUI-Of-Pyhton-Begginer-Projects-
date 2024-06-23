@@ -4,7 +4,7 @@ import re
 
 root = Tk()
 root.geometry("500x400")
-root.title("Password Generator")
+root.title("Password Strength Checker")
 root.configure(bg="#EEEEFF")
 
 
